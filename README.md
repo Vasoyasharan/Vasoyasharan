@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate FrontEnd Dev, always eager to lea
 
 
 - 😄 Pronouns: He/his
-- 🎓 I’m currently studying BCA at Veer Narmad Universit.
+- 🎓 I’m currently studying BCA at Veer Narmad University.
 - 🛠️ I'm currently doing Internship at Depthin Soution.
 - 🌱 I’m currently learning React-Js.
 -  📫 How to reach me: sharanvasoya@proton.me
