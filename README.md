@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate FrontEnd Developer, always eager 
 - 🎓 **Education**: Currently studying BCA at Veer Narmad University.
 - 🛠️ **Internship**: Currently interning at Depthin Solution.
 - 🌱 **Learning**: Currently learning React-Js.
-- 📫 **Contact**: sharanvasoya@proton.me
+- 📫 **Contact**: sharanvasoya.dev@proton.me
 
 ---
 
