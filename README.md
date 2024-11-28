@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate FrontEnd Developer, always eager 
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect Me
 
 <div align="center" style="padding: 20px;">
   <a href="https://www.linkedin.com/in/sharan-vasoya-b6a21824a" target="_blank" style="margin: 10px;">
