@@ -1,53 +1,68 @@
 # 👋 Hello, World! I'm Sharan Vasoya
 
-Welcome to my GitHub profile! I'm a passionate FrontEnd Developer, always eager to learn and explore new technologies. Dive into my repositories and discover what I've been working on!
+Welcome to my GitHub profile!  
+I'm a **Cybersecurity Enthusiast & Red Team Learner** currently pursuing my **MSc in Computer Science (Cybersecurity)** at **BAOU**.  
+My repositories are a mix of **offensive security tools, automation projects, and research-based experiments** — dive in and explore my digital battlegrounds. ⚔️
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-- 😄 **Pronouns**: He/his
-- 🎓 **Education**: BCA at Veer Narmad University.
-- 🛠️ **Internship**: Currently interning at Depthin Solution.
-- 🌱 **Learning**: Currently learning React-Js.
-- 📫 **Contact**: sharanvasoya.dev@proton.me
+- 🧑‍💻 **Focus Area**: Red Teaming | Penetration Testing | Ethical Hacking  
+- 🎓 **Education**: MSc-CS (Cyber Security) @ BAOU  
+- 🌱 **Currently Learning**: Active Directory Attacks, C2 Frameworks, and Exploit Development  
+- 🧩 **Interests**: Exploitation, Malware Analysis, and Adversary Simulation  
+- 📫 **Contact**: sharanvasoya.dev@proton.me  
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Cyber Arsenal (Tech Stack)
 
-<div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; display: flex; flex-direction: column; align-items: center;">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vasoyasharan&theme=react" alt="Profile Details" style="margin: 10px;"/>
-  </a>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasoyasharan&count_private=true&theme=react&border_radius=10" alt="Streak Stats" style="margin: 10px;"/>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vasoyasharan&theme=react" alt="Repos per Language" style="margin: 10px;"/>
-  </a>
+### 💻 Offensive Security
+![Nmap](https://img.shields.io/badge/Nmap-%23013243.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%230057A3.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6C37.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black)
+![Shodan](https://img.shields.io/badge/Shodan-%23D14836.svg?style=for-the-badge&logo=shodan&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23005A9C.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🧰 Development & Scripting
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ☁️ Platforms & Tools
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%230557A6.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-%2300AEEF.svg?style=for-the-badge&logo=linux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center" style="padding: 20px; background-color: #0d1117; border-radius: 15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vasoyasharan&theme=github_dark" alt="Profile Details" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasoyasharan&theme=github-dark-blue&border_radius=10" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vasoyasharan&theme=github_dark" alt="Repos per Language" />
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## 🧩 Projects You Might Like
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- 🕵️‍♂️ **[RedHawk](https://github.com/Vasoyasharan/RedHawk)** — Automated Recon & Vulnerability Scanner  
+- 🧬 **Cybersecurity Cheatsheet Site** — Everything from Priv Esc to Cloud Pentesting  
+- ⚔️ **Payload Lab** — Custom Payloads & Obfuscation Tricks  
 
 ---
-
 
 ## 🏆 Achievements
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vasoyasharan&theme=darkhub" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vasoyasharan&theme=onedark" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -55,24 +70,26 @@ Welcome to my GitHub profile! I'm a passionate FrontEnd Developer, always eager 
 ## 🌐 Connect With Me
 
 <div align="center" style="padding: 20px;">
-  <a href="https://www.linkedin.com/in/sharan-vasoya-b6a21824a" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://www.linkedin.com/in/sharan-vasoya-b6a21824a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/sharan_vasoya_07?igshid=ZDdkNTZiNTM=" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://sharan.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://sharan.is-a.dev" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://instagram.com/sharan_vasoya_07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
 ---
 
-## 🎉 Fun Facts
+## 💡 Fun Facts
 
-- I love exploring new technologies and often get caught up in learning new frameworks.
-- I'm an avid coffee drinker and a big fan of tech meetups.
+- 🧠 I enjoy building tools that automate reconnaissance and exploitation.  
+- ☕ Coffee + Terminal = Perfect combo.  
+- 🛡️ My goal: become a full-fledged **Red Team Operator** specializing in offensive tactics.  
 
 ---
 
-Thank you for stopping by! Have a great day 😊
+### ⚔️ “Hack the systems. Understand the defenses. Secure the future.”  
+Thank you for visiting — stay curious, stay ethical! 🕶️
