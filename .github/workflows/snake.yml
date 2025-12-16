@@ -9,15 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate Snake Animation
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate the snake
+      - name: Generate Snake - Dark Mode
         uses: Platane/snk@v3
         with:
           github_user_name: Vasoyasharan
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
