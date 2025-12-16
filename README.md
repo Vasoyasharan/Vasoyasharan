@@ -82,11 +82,8 @@ My repositories are a mix of **offensive security tools, automation projects, an
 </div>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vasoyasharan/Vasoyasharan/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vasoyasharan/Vasoyasharan/output/snake-light.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Vasoyasharan/Vasoyasharan/output/snake-dark.svg" />
-</picture>
+
+![Snake animation](https://raw.githubusercontent.com/Vasoyasharan/Vasoyasharan/output/snake.svg)
 
 ---
 
