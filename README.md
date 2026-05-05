@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Sharan Vasoya
 
 Welcome to my GitHub profile!  
-I'm a **Cybersecurity Enthusiast & Red Team Learner** currently pursuing my **MSc in Computer Science (Cybersecurity)** at **BAOU**.  
+I'm a **Cybersecurity Enthusiast & Red Team Learner** currently pursuing my **MSc in Cyber Security** at **BAOU**.  
 My repositories are a mix of **offensive security tools, automation projects, and research-based experiments** — dive in and explore my digital battlegrounds. ⚔️
 
 ---
