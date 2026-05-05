@@ -83,10 +83,6 @@ My repositories are a mix of **offensive security tools, automation projects, an
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Vasoyasharan/Vasoyasharan/output/snake.svg)
-
----
-
 
 ## 💡 Fun Facts
 
